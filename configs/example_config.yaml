@@ -1,0 +1,5 @@
+
+dataset_path: "/home/your_username/nobackup/autodelete/fashion-mnist" # Update this path to where you have the Fashion-MNIST dataset stored
+experiment_name: "demo_run"
+output_dir: "output/experiment_results"
+device: "cuda"  # Set to "cpu" if CUDA is not available
